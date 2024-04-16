@@ -1,0 +1,4 @@
+lab1 filter=lfs diff=lfs merge=lfs -text
+lab2 filter=lfs diff=lfs merge=lfs -text
+lab3 filter=lfs diff=lfs merge=lfs -text
+lab4 filter=lfs diff=lfs merge=lfs -text
