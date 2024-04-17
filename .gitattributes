@@ -1,4 +1,2 @@
-lab1 filter=lfs diff=lfs merge=lfs -text
-lab2 filter=lfs diff=lfs merge=lfs -text
-lab3 filter=lfs diff=lfs merge=lfs -text
-lab4 filter=lfs diff=lfs merge=lfs -text
+/lab3/操作系统实验三/操作系统实验三讲解/中断与异常.mp4 filter=lfs diff=lfs merge=lfs -text
+/lab3/操作系统实验三/操作系统实验三讲解/实模式和保护模式下的中断.mp4 filter=lfs diff=lfs merge=lfs -text
